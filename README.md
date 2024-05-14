@@ -12,4 +12,5 @@ The purpose of this project is:
 * Python
 * Jupyter notebook
 
-Github: https://github.com/ds-stratgic-work/Excel-Read-File-Tricks.git 
+Ref Articles:;
+https://towardsdatascience.com/read-excel-files-with-python-1000x-faster-407d07ad0ed8 
